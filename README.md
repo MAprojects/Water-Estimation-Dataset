@@ -4,6 +4,8 @@ Nombre del Autor : Mohamed Azar
 
 El DOI de Zenodo del dataset generado : https://zenodo.org/badge/DOI/10.5281/zenodo.5652032.svg
 
+El archivo .pdf contiene las respuestas de la tarea.
+
 
 Extrae el nivel de agua de los principales embalses de España y datos meteorológicos de la AEMET junto con las coordenadas de Wikipedia.
 
